@@ -2,4 +2,4 @@
 
 ### Credit Data Classification
 
-### Binary Classification
+#### Binary Classification çalışması yaptık.Proje Colab üzerinden çalışıldı.
